@@ -8,3 +8,4 @@ No Programs
 
 ## *Module 2 : Stack and Queue*
 1. [Stack ADT](/Module%202%20-%20Stack%20&%20Queue/stack_adt.c)
+2. [Queue ADT](/Module%202%20-%20Stack%20&%20Queue/queue_adt.c)
